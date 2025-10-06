@@ -1,5 +1,5 @@
 <?php
-//otro BR
+//otro BRrr
 include("db.php");
 
 if(isset($_GET['id'])) {
